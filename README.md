@@ -1,9 +1,10 @@
 # 👨‍💻 Gustavo B. Brizolla  
 
-**`Desenvolvedor Web Full Stack | Entusiasta DevOps`**  
+**`Desenvolvedor Web | Entusiasta DevOps`**  
 
 ## 🚀 Sobre Mim
-Desenvolvedora Web Bem-vindo ao meu portfólio no GitHub! Sou desenvolvedor com foco em Desenvolvimento Web e conhecimentos em práticas de DevOps. Aqui você encontrará uma seleção dos meus projetos e habilidades, que refletem minha experiência em diferentes áreas da tecnologia.
+Bem-vindo ao meu portfólio no GitHub!
+Sou desenvolvedor com foco em Desenvolvimento Web e conhecimentos em práticas de DevOps. Aqui você encontrará uma seleção dos meus projetos e habilidades, que refletem minha experiência em diferentes áreas da tecnologia.
 
 - React para interfaces modernas
 - Node.js para backend eficiente

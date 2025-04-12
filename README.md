@@ -1,65 +1,50 @@
 # 👨‍💻 Gustavo B. Brizolla  
 
-**`Desenvolvedor Web | DevOps Enthusiast`**  
+**`Desenvolvedor Web Full Stack | Entusiasta DevOps`**  
 
-Desenvolvedora Web Bem-vindo ao meu portfólio no GitHub! Sou desenvolvedor com foco em Desenvolvimento Web e conhecimentos em práticas de DevOps. Aqui você encontrará uma seleção dos meus projetos e habilidades, que refletem minha experiência em diferentes áreas da tecnologia.  
+## 🚀 Sobre Mim
+Desenvolvedora Web Bem-vindo ao meu portfólio no GitHub! Sou desenvolvedor com foco em Desenvolvimento Web e conhecimentos em práticas de DevOps. Aqui você encontrará uma seleção dos meus projetos e habilidades, que refletem minha experiência em diferentes áreas da tecnologia.
 
-🔭 Atualmente trabalhando em projetos desafiadores com React, Node.js e Docker  
-🌱 Aprendendo mais sobre Arquitetura de Microsserviços e Kubernetes  
-💡 Interesses: Web Performance, Clean Code e CI/CD Pipelines  
+- React para interfaces modernas
+- Node.js para backend eficiente
+- Docker para conteinerização
+- Linux para infraestrutura sólida
 
+Atualmente focando em:
+- Desenvolvimento de aplicações web performáticas
+- Arquitetura de microsserviços
+- Automação de processos com CI/CD
 
-## 🛠 Stack Tecnológica
+## 🛠 Tecnologias Principais
 
 ### Frontend
-<p align="left">
-  <img alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5"/>
-  <img alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3"/>
-  <img alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript"/>
-  <img alt="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript"/>
-  <img alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React"/>
-  <img alt="Next.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js"/>
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3">
 </p>
 
 ### Backend & DevOps
-<p align="left">
-  <img alt="Node.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js"/>
-  <img alt="Docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker"/>
-  <img alt="MongoDB" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB"/>
-  <img alt="Linux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux"/>
-  <img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/>
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js">
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker">
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" alt="Linux">
 </p>
 
----
+## 📊 Estatísticas do GitHub
 
-## 📈 GitHub Analytics
+[![Estatísticas](https://github-readme-stats.vercel.app/api?username=gustavobbrz&show_icons=true&theme=radical&hide_title=true)](https://github.com/gustavobbrz)
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavobbrz&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavobbrz&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
-</p>
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavobbrz&layout=compact&theme=radical&hide_title=true)](https://github.com/gustavobbrz)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gustavobbrz&theme=radical&hide_border=true" alt="gustavobbrz" />
-</p>
+## 📫 Contato
 
----
-
-## 🌍 Conecte-se Comigo
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/gustavobbrz" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<p>
+  <a href="https://www.linkedin.com/in/gustavobbrz">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="helpsamp1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://discord.com/users/backsidekickflip" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  <a href="mailto:seu-email@exemplo.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
-
----
-
-⭐️ De [gustavobbrz](https://github.com/gustavobbrz)  
-

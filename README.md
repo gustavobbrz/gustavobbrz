@@ -1,97 +1,65 @@
-# 👩🏻‍💻 Gustavo B. Brizolla
+# 👨‍💻 Gustavo B. Brizolla  
 
-**`Desenvolvedora Web`**
-Bem-vindo ao meu portfólio no GitHub! Sou desenvolvedor com foco em Desenvolvimento Web e conhecimentos em práticas de DevOps. Aqui você encontrará uma seleção dos meus projetos e habilidades, que refletem minha experiência em diferentes áreas da tecnologia.
+**`Desenvolvedor Web | DevOps Enthusiast`**  
 
+Desenvolvedora Web Bem-vindo ao meu portfólio no GitHub! Sou desenvolvedor com foco em Desenvolvimento Web e conhecimentos em práticas de DevOps. Aqui você encontrará uma seleção dos meus projetos e habilidades, que refletem minha experiência em diferentes áreas da tecnologia.  
+
+🔭 Atualmente trabalhando em projetos desafiadores com React, Node.js e Docker  
+🌱 Aprendendo mais sobre Arquitetura de Microsserviços e Kubernetes  
+💡 Interesses: Web Performance, Clean Code e CI/CD Pipelines  
+
+
+## 🛠 Stack Tecnológica
+
+### Frontend
 <p align="left">
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/gustavobbrz?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/gustavobbrz?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/gustavobbrz?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+  <img alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5"/>
+  <img alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3"/>
+  <img alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript"/>
+  <img alt="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript"/>
+  <img alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React"/>
+  <img alt="Next.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js"/>
+</p>
+
+### Backend & DevOps
+<p align="left">
+  <img alt="Node.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js"/>
+  <img alt="Docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker"/>
+  <img alt="MongoDB" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB"/>
+  <img alt="Linux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux"/>
+  <img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/>
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 📈 GitHub Analytics
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=gustavobbrz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavobbrz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavobbrz&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavobbrz&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gustavobbrz&theme=radical&hide_border=true" alt="gustavobbrz" />
+</p>
+
+---
+
+## 🌍 Conecte-se Comigo
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gustavobbrz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="helpsamp1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://discord.com/users/backsidekickflip" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+</p>
+
+---
+
+⭐️ De [gustavobbrz](https://github.com/gustavobbrz)  
+
